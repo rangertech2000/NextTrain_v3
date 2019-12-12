@@ -1,0 +1,7 @@
+<resources>
+<drawable-list id="TrainLine">
+        <shape type="circle" x="5" y="38" radius="5" color="Gfx.COLOR_WHITE" />
+        <shape type="rectangle" x="4" y="38" width="2" height="158" color="Gfx.COLOR_WHITE" />
+        <shape type="circle" x="5" y="196" radius="5" color="Gfx.COLOR_WHITE" />   
+    </drawable-list>
+</resources>
