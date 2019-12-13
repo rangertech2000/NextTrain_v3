@@ -56,6 +56,12 @@ class WebRequestView extends Ui.View {
 
     // Restore the state of the app and prepare the view to be shown
     function onShow() {
+    	//Make a new WebRequest
+    	var v = new WebRequestDelegate(WebRequestView.method(:onReceive));    	
+    	// Get the callback for the onReceive method.
+    	var m = v.method(:makeRequest);
+    	// Invoke v's makeRequest method.
+    	m.invoke(direction);
     }
 
     // Update the view
@@ -126,6 +132,8 @@ class WebRequestView extends Ui.View {
         	System.println("args: " + args.toString());
         	//mMessage = args;
             viewDelay.setText(args);
+            viewDepart.setText("");
+        	timeRemaining.setText("");
         }
         else if (args instanceof Lang.Dictionary) {
             // Print the arguments duplicated and returned by httpbin.org

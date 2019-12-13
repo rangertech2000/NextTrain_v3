@@ -12,12 +12,12 @@ class ScheduleViewDelegate extends Ui.BehaviorDelegate {
     }
     
     function onBack() {
-    	popView(Ui.SLIDE_UP);
-    	return true;
+        return false;
     }
     
     function onKey(KEY_START) {
-        return false;
+    	popView(Ui.SLIDE_UP);
+    	return true;    
     }
 
     function onSelect() {

@@ -10,26 +10,35 @@ class WebRequestDelegate extends Ui.BehaviorDelegate {
     hidden var sView;
     var myTZoffset;
 
-    // Handle menu button press
+    // Show Schedule view
     function onMenu() {
     	sView = new ScheduleView();
     	Ui.pushView(sView, new ScheduleViewDelegate(sView.method(:onReceive)), Ui.SLIDE_UP );
     	return true;
     }
     
+    // Quit the app
+    function onKey(KEY_START) {
+    	System.exit();
+    }
+
+	// Go to Station Picker
     function onBack() {
-    	//System.exit();
-    	
     	Ui.pushView(new Station1Picker(), new Station1PickerDelegate(), Ui.SLIDE_IMMEDIATE);
     	return true;
     }
-    
+        
     // Change direction
-    function onKey(KEY_START) {
+	function onNextPage() {
     	changeDirection();
         makeRequest(direction);
         return true;
     }
+	function onPreviousPage() {
+    	changeDirection();
+        makeRequest(direction);
+        return true;
+    }	
 	
 	// Refresh the data
     function onSelect() {
@@ -134,9 +143,9 @@ class WebRequestDelegate extends Ui.BehaviorDelegate {
 	        else if (data instanceof Lang.Array) {
 	            System.println("data is an Array.");
 	            System.println("Array size: " + data.size());
-	            System.println(data[0]);
 	            
-	            if (data.size() > 0) {    	
+	            if (data.size() > 0) {    
+	            System.println(data[0]);	
 		    		data = data[0]; //convert the array to a dictionary type
 		    	
 		    		var intDelay;
@@ -155,10 +164,13 @@ class WebRequestDelegate extends Ui.BehaviorDelegate {
 				        var mHour = departTime.substring(0, colon).toNumber();
 				        var mMins = departTime.substring(colon+1, colon+3).toNumber();
 				        
-				        // Convert to 24hr formart
+				        // Convert to 24hr format
+				        if (departTime.find("A") != null && mHour == 12){
+				        	mHour = 0;
+				        }
 				        if (departTime.find("P") != null && mHour < 12){
 				        	mHour = mHour + 12;
-				        }	 
+				        }
 			        	System.println("mHour: " + mHour + ", mMins: " + mMins + ", myTZoffset: " + myTZoffset);
 			        	
 				        // Get the current Gregorian depart time	
@@ -183,7 +195,7 @@ class WebRequestDelegate extends Ui.BehaviorDelegate {
 						        today2.year
 						    ]
 						);						
-						System.println("Depart Time: " + dateStringDepart);     
+						System.println("Depart Time(GMT): " + dateStringDepart);     
 						// <--debug--   
 			       		        		        
 				        // Calculate minutes until departure

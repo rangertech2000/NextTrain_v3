@@ -1,0 +1,6 @@
+v.1.1.0
+Fixed: 
+- 12am time calculation
+- UI navigation adjustments
+To do:
+- View layout adjustments
