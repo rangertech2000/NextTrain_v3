@@ -1,6 +1,0 @@
-<resources>
-    <string id="AppName">NextTrain</string>
-    <string id="Station1ChooserTitle">Start station:</string>
-    <string id="strStartStation">Start</string>
-    <string id="strEndStation">Dest</string>
-</resources>

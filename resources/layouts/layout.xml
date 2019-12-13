@@ -1,9 +1,9 @@
 <layout id="WatchFace">
 	<drawable id="TrainLine" />
     <label id="TimeLabel" x="center" y="top" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" ></label>
-    <label id="lblStartStationName" x="15" y="26" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE"></label>
+    <label id="lblStartStationName" x="center" y="26" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
     <label id="lblDepartTime" x="center" y="44" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER"	color="Gfx.COLOR_WHITE"></label>
-    <label id="lblDelay" x="center" y="94" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER"	color="Gfx.COLOR_WHITE"></label>
+    <label id="lblDelay" x="center" y="100" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
     <label id="lblMinutesRemaining" x="center" y="130" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
-	<label id="lblEndStationName" x="15" y="185" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE"></label>
+	<label id="lblEndStationName" x="center" y="185" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
 </layout>

@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="4" lineNum="14" pc="268435483" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="4" lineNum="18" pc="268435487" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="4" lineNum="20" pc="268435533" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="4" lineNum="22" pc="268435551" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="5" lineNum="26" pc="268435579" symbol="onShow"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="30" pc="268435584" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="31" pc="268435588" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="32" pc="268435601" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="36" pc="268435617" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="38" pc="268435637" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="39" pc="268435673" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="6" lineNum="40" pc="268435685" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="7" lineNum="45" pc="268435740" symbol="onHide"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="48" pc="268435745" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="49" pc="268435749" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="50" pc="268435767" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="51" pc="268435790" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="52" pc="268435825" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="54" pc="268435838" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="56" pc="268435856" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="57" pc="268435879" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="58" pc="268435892" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="60" pc="268435905" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="62" pc="268435929" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleView.mc" id="8" lineNum="66" pc="268435973" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="10" lineNum="6" pc="268435990" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="10" lineNum="7" pc="268435994" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="10" lineNum="9" pc="268436116" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="10" lineNum="10" pc="268436140" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="11" lineNum="13" pc="268436199" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="11" lineNum="14" pc="268436203" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="11" lineNum="15" pc="268436239" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1Picker.mc" id="11" lineNum="16" pc="268436251" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="13" lineNum="14" pc="268436272" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="13" lineNum="15" pc="268436276" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="13" lineNum="16" pc="268436306" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="13" lineNum="17" pc="268436386" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="14" lineNum="20" pc="268436390" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="14" lineNum="23" pc="268436394" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="14" lineNum="24" pc="268436466" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="15" lineNum="28" pc="268436470" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="15" lineNum="29" pc="268436474" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="15" lineNum="30" pc="268436486" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="15" lineNum="31" pc="268436506" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="16" lineNum="35" pc="268436510" symbol="onSelect"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="16" lineNum="36" pc="268436514" symbol="onSelect"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="16" lineNum="37" pc="268436534" symbol="onSelect"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="41" pc="268436538" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="42" pc="268436542" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="43" pc="268436564" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="46" pc="268436574" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="47" pc="268436591" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="17" lineNum="48" pc="268436613" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="51" pc="268436644" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="52" pc="268436648" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="54" pc="268436671" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="54" pc="268436678" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="56" pc="268436693" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="57" pc="268436752" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="18" lineNum="59" pc="268436783" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="72" pc="268436850" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="73" pc="268436854" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="74" pc="268436854" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="75" pc="268436867" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="77" pc="268436885" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="78" pc="268436892" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="79" pc="268436918" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="80" pc="268436941" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="81" pc="268436948" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="82" pc="268436966" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="19" lineNum="84" pc="268436982" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="87" pc="268436986" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="88" pc="268436990" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="89" pc="268436990" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="90" pc="268437003" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="92" pc="268437021" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="93" pc="268437028" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="94" pc="268437048" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="95" pc="268437071" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="96" pc="268437078" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="97" pc="268437096" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="100" pc="268437112" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="20" lineNum="102" pc="268437138" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="105" pc="268437142" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="106" pc="268437146" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="107" pc="268437163" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="108" pc="268437176" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="109" pc="268437192" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="112" pc="268437211" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="113" pc="268437224" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="21" lineNum="114" pc="268437240" symbol="changeDirection"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="119" pc="268437257" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="120" pc="268437261" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="121" pc="268437272" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="123" pc="268437296" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="125" pc="268437303" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="126" pc="268437323" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="127" pc="268437344" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="129" pc="268437377" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="130" pc="268437390" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="131" pc="268437414" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="134" pc="268437466" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="135" pc="268437486" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="136" pc="268437507" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="137" pc="268437540" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="139" pc="268437564" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="140" pc="268437584" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="142" pc="268437594" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="143" pc="268437594" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="144" pc="268437612" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="145" pc="268437632" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="146" pc="268437645" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="149" pc="268437658" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="153" pc="268437665" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="154" pc="268437694" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="155" pc="268437712" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="156" pc="268437741" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="159" pc="268437779" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="160" pc="268437814" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="162" pc="268437827" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="165" pc="268437875" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="169" pc="268437903" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="171" pc="268437933" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="173" pc="268437952" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="174" pc="268437983" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="186" pc="268438125" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="191" pc="268438149" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="193" pc="268438201" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="194" pc="268438245" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="206" pc="268438387" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="208" pc="268438411" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="209" pc="268438450" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="212" pc="268438474" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="219" pc="268438549" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="222" pc="268438559" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestDelegate.mc" id="22" lineNum="225" pc="268438582" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="24" lineNum="9" pc="268438618" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="24" lineNum="10" pc="268438622" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="25" lineNum="14" pc="268438645" symbol="onStart"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="26" lineNum="18" pc="268438650" symbol="onStop"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="27" lineNum="22" pc="268438655" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="27" lineNum="23" pc="268438659" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestApp.mc" id="27" lineNum="24" pc="268438689" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="17" pc="268438765" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="18" pc="268438769" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="20" pc="268438791" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="21" pc="268438828" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="22" pc="268438841" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="23" pc="268438854" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="26" pc="268438895" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="29" pc="268438911" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="30" pc="268438948" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="31" pc="268438961" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="32" pc="268438974" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="29" lineNum="35" pc="268439015" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="41" pc="268439032" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="42" pc="268439036" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="44" pc="268439073" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="47" pc="268439086" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="49" pc="268439132" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="51" pc="268439150" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="53" pc="268439177" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="30" lineNum="54" pc="268439211" symbol="onLayout"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="31" lineNum="58" pc="268439253" symbol="onShow"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="62" pc="268439258" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="65" pc="268439262" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="66" pc="268439279" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="67" pc="268439279" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="68" pc="268439289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="69" pc="268439300" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="70" pc="268439307" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="72" pc="268439317" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="73" pc="268439328" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="74" pc="268439338" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="77" pc="268439348" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="78" pc="268439359" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="81" pc="268439369" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="84" pc="268439376" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="85" pc="268439484" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="86" pc="268439508" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="88" pc="268439522" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="89" pc="268439546" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="91" pc="268439570" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="92" pc="268439594" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="93" pc="268439601" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="95" pc="268439624" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="97" pc="268439660" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="98" pc="268439684" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="99" pc="268439691" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="101" pc="268439714" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="32" lineNum="106" pc="268439750" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="33" lineNum="116" pc="268439771" symbol="onHide"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="119" pc="268439776" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="120" pc="268439780" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="121" pc="268439804" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="122" pc="268439828" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="124" pc="268439852" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="125" pc="268439870" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="126" pc="268439893" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="128" pc="268439928" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="130" pc="268439945" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="132" pc="268439963" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="133" pc="268439986" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="140" pc="268439999" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="141" pc="268440027" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="142" pc="268440055" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="34" lineNum="145" pc="268440086" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="148" pc="268440103" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="149" pc="268440107" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="149" pc="268440140" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="150" pc="268440156" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="151" pc="268440175" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="153" pc="268440207" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="155" pc="268440223" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="156" pc="268440240" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="159" pc="268440263" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="161" pc="268440309" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WebRequestView.mc" id="35" lineNum="163" pc="268440327" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="37" lineNum="9" pc="268440351" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="37" lineNum="10" pc="268440355" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="38" lineNum="13" pc="268440374" symbol="getSize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="38" lineNum="14" pc="268440378" symbol="getSize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="39" lineNum="17" pc="268440397" symbol="getValue"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="39" lineNum="18" pc="268440401" symbol="getValue"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="40" lineNum="21" pc="268440414" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\WordFactory.mc" id="40" lineNum="22" pc="268440418" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="42" lineNum="7" pc="268440547" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="42" lineNum="8" pc="268440551" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="43" lineNum="11" pc="268440574" symbol="onCancel"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="43" lineNum="12" pc="268440578" symbol="onCancel"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="44" lineNum="15" pc="268440597" symbol="onAccept"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="44" lineNum="16" pc="268440601" symbol="onAccept"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="44" lineNum="17" pc="268440639" symbol="onAccept"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="44" lineNum="18" pc="268440655" symbol="onAccept"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\Station1PickerDelegate.mc" id="44" lineNum="19" pc="268440671" symbol="onAccept"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="46" lineNum="10" pc="268440700" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="46" lineNum="11" pc="268440704" symbol="onMenu"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="47" lineNum="14" pc="268440708" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="47" lineNum="15" pc="268440712" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="47" lineNum="16" pc="268440736" symbol="onBack"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="48" lineNum="19" pc="268440740" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="48" lineNum="20" pc="268440744" symbol="onKey"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="49" lineNum="23" pc="268440748" symbol="onSelect"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="49" lineNum="24" pc="268440752" symbol="onSelect"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="50" lineNum="28" pc="268440756" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="50" lineNum="29" pc="268440760" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="50" lineNum="30" pc="268440782" symbol="initialize"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="51" lineNum="33" pc="268440793" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="51" lineNum="34" pc="268440797" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="51" lineNum="36" pc="268440820" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="51" lineNum="37" pc="268440879" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="51" lineNum="39" pc="268440910" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="48" pc="268440977" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="49" pc="268440981" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="50" pc="268440981" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="51" pc="268440994" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="53" pc="268441012" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="54" pc="268441019" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="55" pc="268441045" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="56" pc="268441068" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="58" pc="268441075" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="59" pc="268441093" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="52" lineNum="61" pc="268441109" symbol="replaceSpaces"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="64" pc="268441113" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="65" pc="268441117" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="66" pc="268441117" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="67" pc="268441130" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="69" pc="268441148" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="70" pc="268441155" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="71" pc="268441175" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="72" pc="268441198" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="73" pc="268441205" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="74" pc="268441223" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="77" pc="268441239" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="53" lineNum="78" pc="268441265" symbol="formatTime"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="83" pc="268441269" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="84" pc="268441273" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="86" pc="268441280" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="87" pc="268441300" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="88" pc="268441321" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="90" pc="268441357" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="91" pc="268441377" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="92" pc="268441398" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="94" pc="268441431" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="95" pc="268441455" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="96" pc="268441462" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="98" pc="268441480" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="98" pc="268441499" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="99" pc="268441509" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="101" pc="268441552" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="109" pc="268441695" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="110" pc="268441706" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="111" pc="268441730" symbol="onReceive"/>
+        <entry filename="C:\\Users\\testuser\\eclipse-workspace\\NextTrain_v3\\source\\ScheduleViewDelegate.mc" id="54" lineNum="113" pc="268441753" symbol="onReceive"/>
+        <entry filename="Rez" id="58" lineNum="11" pc="268441789" symbol="initialize"/>
+        <entry filename="Rez" id="58" lineNum="12" pc="268441793" symbol="initialize"/>
+        <entry filename="Rez" id="59" lineNum="15" pc="268441818" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="17" pc="268441822" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="18" pc="268441858" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="20" pc="268441885" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="21" pc="268441921" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="23" pc="268441953" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="24" pc="268441989" symbol="draw"/>
+        <entry filename="Rez" id="63" lineNum="41" pc="268442017" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="43" pc="268442029" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="44" pc="268442069" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="45" pc="268442082" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="47" pc="268442098" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="48" pc="268442238" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="49" pc="268442371" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="50" pc="268442504" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="51" pc="268442637" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="52" pc="268442770" symbol="WatchFace"/>
+        <entry filename="Rez" id="63" lineNum="54" pc="268442903" symbol="WatchFace"/>
+        <entry filename="Rez" id="66" lineNum="67" pc="268442981" symbol="initialize"/>
+        <entry filename="Rez" id="66" lineNum="68" pc="268442985" symbol="initialize"/>
+        <entry filename="Rez" id="66" lineNum="69" pc="268443003" symbol="initialize"/>
+        <entry filename="Rez" id="66" lineNum="70" pc="268443059" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="13" symbol="directionString"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="24" symbol="myTimer"/>
+        <entry id="10" object="true" symbol="Station1Picker"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="8389629" method="true" symbol="getValue"/>
+        <entry id="34" method="true" symbol="replaceSpaces"/>
+        <entry field="true" id="12" symbol="direction"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry field="true" id="37" symbol="mWords"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="44" symbol="strEndStation"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="43" object="true" symbol="MainMenu"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry id="20" object="true" symbol="WordFactory"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="27" symbol="mCount60s"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="8389128" symbol="mFont"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="22" object="true" symbol="ScheduleViewDelegate"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="21" object="true" symbol="Station1PickerDelegate"/>
+        <entry id="8389626" method="true" symbol="onAccept"/>
+        <entry field="true" id="8389115" symbol="mMessage"/>
+        <entry field="true" id="17" symbol="endStation"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="48" symbol="AppName"/>
+        <entry id="35" method="true" symbol="formatTime"/>
+        <entry id="33" method="true" symbol="makeRequest"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry field="true" id="32" symbol="myTZoffset"/>
+        <entry id="53" symbol="item_2"/>
+        <entry id="52" symbol="item_1"/>
+        <entry field="true" id="41" symbol="LauncherIcon"/>
+        <entry field="true" id="49" symbol="Station1ChooserTitle"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry field="true" id="16" symbol="startStation"/>
+        <entry field="true" id="46" symbol="menu_label_2"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="45" symbol="menu_label_1"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="18" object="true" symbol="WebRequestApp"/>
+        <entry id="19" object="true" symbol="WebRequestView"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="38" symbol="mStation"/>
+        <entry field="true" id="25" symbol="mDelegate"/>
+        <entry field="true" id="26" symbol="notify"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="11" object="true" symbol="WebRequestDelegate"/>
+        <entry field="true" id="31" symbol="sView"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389338" symbol="minute"/>
+        <entry field="true" id="23" symbol="mModel"/>
+        <entry id="36" method="true" symbol="changeDirection"/>
+        <entry field="true" id="51" symbol="wView"/>
+        <entry id="39" module="true" symbol="Layouts"/>
+        <entry field="true" id="47" symbol="prompt"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="15" symbol="station2"/>
+        <entry field="true" id="14" symbol="station1"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389628" method="true" symbol="getDrawable"/>
+        <entry id="30" method="true" symbol="timerCallback"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="42" object="true" symbol="TrainLine"/>
+        <entry id="9" object="true" symbol="ScheduleView"/>
+        <entry id="40" module="true" symbol="Menus"/>
+        <entry field="true" id="50" symbol="strStartStation"/>
+        <entry id="8389643" symbol="pattern"/>
+        <entry id="29" method="true" symbol="onReceive"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389630" method="true" symbol="getSize"/>
+        <entry id="8389541" method="true" symbol="onCancel"/>
+        <entry field="true" id="28" symbol="mView"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435578" name="m" stackId="3" startPc="268435487"/>
+        <entry endPc="268435578" name="v" stackId="2" startPc="268435487"/>
+        <entry endPc="268435579" name="dc" stackId="1" startPc="268435483"/>
+        <entry endPc="268435740" name="dc" stackId="1" startPc="268435584"/>
+        <entry endPc="268435970" name="i" stackId="3" startPc="268435929"/>
+        <entry endPc="268435970" name="keys" stackId="2" startPc="268435856"/>
+        <entry endPc="268435990" name="args" stackId="1" startPc="268435745"/>
+        <entry endPc="268436198" name="factory" stackId="2" startPc="268435994"/>
+        <entry endPc="268436198" name="title" stackId="1" startPc="268435994"/>
+        <entry endPc="268436272" name="dc" stackId="1" startPc="268436199"/>
+        <entry endPc="268436510" name="KEY_START" stackId="1" startPc="268436470"/>
+        <entry endPc="268436643" name="myTime" stackId="2" startPc="268436542"/>
+        <entry endPc="268436644" name="handler" stackId="1" startPc="268436538"/>
+        <entry endPc="268436849" name="url" stackId="2" startPc="268436648"/>
+        <entry endPc="268436850" name="direction" stackId="1" startPc="268436644"/>
+        <entry endPc="268436985" name="wordLength" stackId="4" startPc="268436854"/>
+        <entry endPc="268436985" name="space" stackId="5" startPc="268436854"/>
+        <entry endPc="268436985" name="word2" stackId="3" startPc="268436854"/>
+        <entry endPc="268436985" name="word1" stackId="2" startPc="268436854"/>
+        <entry endPc="268436986" name="word" stackId="1" startPc="268436850"/>
+        <entry endPc="268437141" name="wordLength" stackId="4" startPc="268436990"/>
+        <entry endPc="268437141" name="space" stackId="5" startPc="268436990"/>
+        <entry endPc="268437141" name="word2" stackId="3" startPc="268436990"/>
+        <entry endPc="268437141" name="word1" stackId="2" startPc="268436990"/>
+        <entry endPc="268437142" name="word" stackId="1" startPc="268436986"/>
+        <entry endPc="268437463" name="i" stackId="5" startPc="268437414"/>
+        <entry endPc="268437463" name="keys" stackId="4" startPc="268437323"/>
+        <entry endPc="268438546" name="mHour" stackId="10" startPc="268437584"/>
+        <entry endPc="268438546" name="DepartTimeGregorian" stackId="13" startPc="268437584"/>
+        <entry endPc="268438546" name="strDelay" stackId="7" startPc="268437584"/>
+        <entry endPc="268438546" name="colon" stackId="9" startPc="268437584"/>
+        <entry endPc="268438546" name="dateStringDepart" stackId="15" startPc="268437584"/>
+        <entry endPc="268438546" name="today2" stackId="14" startPc="268437584"/>
+        <entry endPc="268438546" name="today" stackId="17" startPc="268437584"/>
+        <entry endPc="268438546" name="intDelay" stackId="6" startPc="268437584"/>
+        <entry endPc="268438546" name="mNow" stackId="16" startPc="268437584"/>
+        <entry endPc="268438546" name="MinutesRemaining" stackId="19" startPc="268437584"/>
+        <entry endPc="268438546" name="dateString" stackId="18" startPc="268437584"/>
+        <entry endPc="268438546" name="departTime" stackId="8" startPc="268437584"/>
+        <entry endPc="268438546" name="mMins" stackId="11" startPc="268437584"/>
+        <entry endPc="268438546" name="options" stackId="12" startPc="268437584"/>
+        <entry endPc="268438579" name="data_text" stackId="3" startPc="268437272"/>
+        <entry endPc="268438618" name="responseCode" stackId="1" startPc="268437257"/>
+        <entry endPc="268438618" name="data" stackId="2" startPc="268437257"/>
+        <entry endPc="268438650" name="state" stackId="1" startPc="268438645"/>
+        <entry endPc="268438655" name="state" stackId="1" startPc="268438650"/>
+        <entry endPc="268439252" name="m" stackId="3" startPc="268439036"/>
+        <entry endPc="268439252" name="v" stackId="2" startPc="268439036"/>
+        <entry endPc="268439253" name="dc" stackId="1" startPc="268439032"/>
+        <entry endPc="268439770" name="timeString" stackId="5" startPc="268439262"/>
+        <entry endPc="268439770" name="viewDirectionStart" stackId="7" startPc="268439262"/>
+        <entry endPc="268439770" name="clockTime" stackId="2" startPc="268439262"/>
+        <entry endPc="268439770" name="hour" stackId="4" startPc="268439262"/>
+        <entry endPc="268439770" name="j" stackId="10" startPc="268439262"/>
+        <entry endPc="268439770" name="ap" stackId="3" startPc="268439262"/>
+        <entry endPc="268439770" name="i" stackId="9" startPc="268439262"/>
+        <entry endPc="268439770" name="view" stackId="6" startPc="268439262"/>
+        <entry endPc="268439770" name="viewDirectionEnd" stackId="8" startPc="268439262"/>
+        <entry endPc="268439771" name="dc" stackId="1" startPc="268439258"/>
+        <entry endPc="268440083" name="keys" stackId="5" startPc="268439963"/>
+        <entry endPc="268440102" name="timeRemaining" stackId="4" startPc="268439780"/>
+        <entry endPc="268440102" name="viewDelay" stackId="3" startPc="268439780"/>
+        <entry endPc="268440102" name="viewDepart" stackId="2" startPc="268439780"/>
+        <entry endPc="268440103" name="args" stackId="1" startPc="268439776"/>
+        <entry endPc="268440347" name="m" stackId="2" startPc="268440240"/>
+        <entry endPc="268440347" name="v" stackId="1" startPc="268440240"/>
+        <entry endPc="268440414" name="index" stackId="1" startPc="268440397"/>
+        <entry endPc="268440547" name="index" stackId="1" startPc="268440414"/>
+        <entry endPc="268440547" name="selected" stackId="2" startPc="268440414"/>
+        <entry endPc="268440700" name="values" stackId="1" startPc="268440597"/>
+        <entry endPc="268440748" name="KEY_START" stackId="1" startPc="268440740"/>
+        <entry endPc="268440793" name="handler" stackId="1" startPc="268440756"/>
+        <entry endPc="268440976" name="url" stackId="2" startPc="268440797"/>
+        <entry endPc="268440977" name="direction" stackId="1" startPc="268440793"/>
+        <entry endPc="268441112" name="wordLength" stackId="4" startPc="268440981"/>
+        <entry endPc="268441112" name="space" stackId="5" startPc="268440981"/>
+        <entry endPc="268441112" name="word2" stackId="3" startPc="268440981"/>
+        <entry endPc="268441112" name="word1" stackId="2" startPc="268440981"/>
+        <entry endPc="268441113" name="word" stackId="1" startPc="268440977"/>
+        <entry endPc="268441268" name="wordLength" stackId="4" startPc="268441117"/>
+        <entry endPc="268441268" name="space" stackId="5" startPc="268441117"/>
+        <entry endPc="268441268" name="word2" stackId="3" startPc="268441117"/>
+        <entry endPc="268441268" name="word1" stackId="2" startPc="268441117"/>
+        <entry endPc="268441269" name="word" stackId="1" startPc="268441113"/>
+        <entry endPc="268441679" name="delay" stackId="6" startPc="268441455"/>
+        <entry endPc="268441679" name="data_temp" stackId="5" startPc="268441455"/>
+        <entry endPc="268441692" name="i" stackId="4" startPc="268441455"/>
+        <entry endPc="268441788" name="data_text" stackId="3" startPc="268441273"/>
+        <entry endPc="268441789" name="responseCode" stackId="1" startPc="268441269"/>
+        <entry endPc="268441789" name="data" stackId="2" startPc="268441269"/>
+        <entry endPc="268442017" name="dc" stackId="1" startPc="268441818"/>
+        <entry endPc="268442980" name="rez_cmp_local_custom_drawable_TrainLine" stackId="2" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_lblEndStationName" stackId="8" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_lblDepartTime" stackId="5" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_lblDelay" stackId="6" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_lblStartStationName" stackId="4" startPc="268442029"/>
+        <entry endPc="268442980" name="rez_cmp_local_text_lblMinutesRemaining" stackId="7" startPc="268442029"/>
+        <entry endPc="268442981" name="dc" stackId="1" startPc="268442017"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="310" parentId="globals" symbolId="WebRequestView" type="class"/>
+        <dataEntry offset="461" parentId="globals" symbolId="WebRequestDelegate" type="class"/>
+        <dataEntry offset="604" parentId="globals" symbolId="WordFactory" type="class"/>
+        <dataEntry offset="699" parentId="globals" symbolId="Station1Picker" type="class"/>
+        <dataEntry offset="754" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="833" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="880" parentId="Drawables" symbolId="TrainLine" type="class"/>
+        <dataEntry offset="935" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="974" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="1021" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1052" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1091" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1122" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1209" parentId="globals" symbolId="Station1PickerDelegate" type="class"/>
+        <dataEntry offset="1280" parentId="globals" symbolId="ScheduleViewDelegate" type="class"/>
+        <dataEntry offset="1399" parentId="globals" symbolId="ScheduleView" type="class"/>
+        <dataEntry offset="1494" parentId="globals" symbolId="WebRequestApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ScheduleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ScheduleView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ScheduleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ScheduleView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ScheduleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="ScheduleView">
+            <param id="args"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Station1Picker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="Station1Picker">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="WebRequestDelegate">
+            <param id="KEY_START"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestDelegate">
+            <param id="handler"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeRequest" parent="WebRequestDelegate">
+            <param id="direction"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="replaceSpaces" parent="WebRequestDelegate">
+            <param id="word"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatTime" parent="WebRequestDelegate">
+            <param id="word"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="changeDirection" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="WebRequestDelegate">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="WebRequestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="WebRequestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="WebRequestApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="WebRequestView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="WebRequestView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="WebRequestView">
+            <param id="args"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WordFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSize" parent="WordFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getValue" parent="WordFactory">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDrawable" parent="WordFactory">
+            <param id="index"/>
+            <param id="selected"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Station1PickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCancel" parent="Station1PickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAccept" parent="Station1PickerDelegate">
+            <param id="values"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="ScheduleViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="ScheduleViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="ScheduleViewDelegate">
+            <param id="KEY_START"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="ScheduleViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScheduleViewDelegate">
+            <param id="handler"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeRequest" parent="ScheduleViewDelegate">
+            <param id="direction"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="replaceSpaces" parent="ScheduleViewDelegate">
+            <param id="word"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatTime" parent="ScheduleViewDelegate">
+            <param id="word"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="ScheduleViewDelegate">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TrainLine">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="TrainLine">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

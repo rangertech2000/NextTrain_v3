@@ -1,0 +1,11 @@
+<resources>
+    <string id="AppName">NextTrain_v3</string>
+    <string id="Station1ChooserTitle">Start station:</string>
+    <string id="strStartStation">Start</string>
+    <string id="strEndStation">Dest</string>
+    
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</resources>
